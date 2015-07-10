@@ -1,0 +1,1 @@
+Cashbox.Tests.Services.PurchaseServiceTests.Purchase_When_purchase_made_Then_account_balance_updates_properly
